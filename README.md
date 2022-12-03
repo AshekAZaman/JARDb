@@ -1,4 +1,4 @@
-# COMP3020-GROUP12-JARDb
+# JARDb
 
 ## How to Run our Website:
 Click the ```index.html```
